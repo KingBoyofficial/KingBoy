@@ -1,16 +1,1 @@
-<LinearLayout
-	xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:app="http://schemas.android.com/apk/res-auto"
-	xmlns:tools="http://schemas.android.com/tools"
-	android:layout_width="match_parent"
-	android:layout_height="match_parent"
-	android:orientation="vertical">
-	<de.hdodenhof.circleimageview.CircleImageView
-		android:id="@+id/circleimageview1"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		app:civ_border_width="3dp"
-		app:civ_border_color="#008DCD"
-		app:civ_circle_background_color="#FFFFFF"
-		app:civ_border_overlay="true"/>
-</LinearLayout>
+[{"نام":"صفا","آیدی":"ویرایش انجام شد"},{"نام":"حسین","آیدی":"ندارد"},{"نام":"مش رجب","آیدی":"ندارد"},{"نام":"لئو ممد","آیدی":"@leomamadm"}]
